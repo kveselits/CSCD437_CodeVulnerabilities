@@ -1,0 +1,12 @@
+[
+  {
+    "file": "C:\\Users\\kjuli\\CLionProjects\\CSCD437_CodeVulnerabilities\\a.c",
+    "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30037\\bin\\Hostx86\\x86\\cl.exe\" C:\\Users\\kjuli\\CLionProjects\\CSCD437_CodeVulnerabilities\\a.c /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1",
+    "directory": "C:\\Users\\kjuli\\CLionProjects\\CSCD437_CodeVulnerabilities"
+  },
+  {
+    "file": "C:\\Users\\kjuli\\CLionProjects\\CSCD437_CodeVulnerabilities\\main.c",
+    "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30037\\bin\\Hostx86\\x86\\cl.exe\" C:\\Users\\kjuli\\CLionProjects\\CSCD437_CodeVulnerabilities\\main.c /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1",
+    "directory": "C:\\Users\\kjuli\\CLionProjects\\CSCD437_CodeVulnerabilities"
+  }
+]
